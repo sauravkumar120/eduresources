@@ -1,0 +1,59 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * aileron:
+ *   - http://typekit.com/eulas/00000000000000007735cc80
+ *   - http://typekit.com/eulas/00000000000000007735cc82
+ *   - http://typekit.com/eulas/00000000000000007735cc88
+ *   - http://typekit.com/eulas/00000000000000007735cc89
+ * source-sans-3-variable:
+ *   - http://typekit.com/eulas/00000000000000007737b9dd
+ *   - http://typekit.com/eulas/000000000000000077454916
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-04-20 05:30:36 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=odn2rzs&ht=tk&f=43094.43095.43098.43099.51953.51954&a=245684446&app=typekit&e=css");
+
+@font-face {
+font-family:"aileron";
+src:url("https://use.typekit.net/af/2aa040/00000000000000007735cc80/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/2aa040/00000000000000007735cc80/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/2aa040/00000000000000007735cc80/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aileron";
+src:url("https://use.typekit.net/af/09ae06/00000000000000007735cc82/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/09ae06/00000000000000007735cc82/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/09ae06/00000000000000007735cc82/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aileron";
+src:url("https://use.typekit.net/af/68fabc/00000000000000007735cc88/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/68fabc/00000000000000007735cc88/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/68fabc/00000000000000007735cc88/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aileron";
+src:url("https://use.typekit.net/af/f6a8ac/00000000000000007735cc89/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/f6a8ac/00000000000000007735cc89/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/f6a8ac/00000000000000007735cc89/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"source-sans-3-variable";
+src:url("https://use.typekit.net/af/612ad5/00000000000000007737b9dd/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/612ad5/00000000000000007737b9dd/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/612ad5/00000000000000007737b9dd/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200 900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"source-sans-3-variable";
+src:url("https://use.typekit.net/af/50d9ea/000000000000000077454916/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/50d9ea/000000000000000077454916/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/50d9ea/000000000000000077454916/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:200 900;font-stretch:normal;
+}
+
+.tk-aileron { font-family: "aileron",sans-serif; }
+.tk-source-sans-3-variable { font-family: "source-sans-3-variable",sans-serif; }
