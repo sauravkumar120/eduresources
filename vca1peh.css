@@ -1,0 +1,38 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * kumbh-sans-variable:
+ *   - http://typekit.com/eulas/000000000000000077401d3f
+ * overpass-variable:
+ *   - http://typekit.com/eulas/000000000000000077410e1d
+ *   - http://typekit.com/eulas/00000000000000007745be9f
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-04-20 05:11:25 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=vca1peh&ht=tk&f=51940.51941.51945&a=245684446&app=typekit&e=css");
+
+@font-face {
+font-family:"overpass-variable";
+src:url("https://use.typekit.net/af/07b6a3/000000000000000077410e1d/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/07b6a3/000000000000000077410e1d/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/07b6a3/000000000000000077410e1d/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100 900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"overpass-variable";
+src:url("https://use.typekit.net/af/08582d/00000000000000007745be9f/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/08582d/00000000000000007745be9f/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/08582d/00000000000000007745be9f/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:100 900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"kumbh-sans-variable";
+src:url("https://use.typekit.net/af/a2c841/000000000000000077401d3f/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/a2c841/000000000000000077401d3f/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/a2c841/000000000000000077401d3f/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100 900;font-stretch:normal;
+}
+
+.tk-overpass-variable { font-family: "overpass-variable",sans-serif; }
+.tk-kumbh-sans-variable { font-family: "kumbh-sans-variable",sans-serif; }
